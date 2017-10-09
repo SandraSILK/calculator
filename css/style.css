@@ -1,0 +1,51 @@
+﻿body {
+	background: #619e92;
+	margin: 0;
+	color: #fff;
+}
+#container {
+    width: 250px;
+    height: 320px;
+    background: #385c55;
+    margin: auto;
+    margin-top: 100px;
+}
+#text {
+	width: 200px;
+	height: 30px;
+	border: 1px solid #fff;
+	margin-top: 10px; 
+	margin-left: 20px;
+	text-align: left;
+	font-size: 25px;
+	vertical-align: middle;	
+}
+#buttons {
+    margin-left: 20px;
+}
+.number {
+	width: 30px;
+	height: 30px;
+	border: 1px solid #999;
+	margin: 10px;
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	border-radius: 2px;	
+}
+.number:hover {
+	background: #304f49;
+	color: #999;
+}
+#signature {
+    text-align: center;
+    font-size: 13px;
+    color: #13201d;
+}
+a {
+    color: #006699;
+    text-decoration: none;    
+}
+a:hover, a:visited, a:active {
+    color: #385c55; 
+}
